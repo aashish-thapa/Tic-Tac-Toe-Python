@@ -20,7 +20,7 @@ This is a graphical implementation of the classic Tic-Tac-Toe game using Python'
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/aashish-thapa/tic-tac-toe.git
     ```
 2. Navigate to the project directory:
     ```bash
